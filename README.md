@@ -7,7 +7,6 @@ Scroll through
 
 
 
-### `npm start`
 
 
 
