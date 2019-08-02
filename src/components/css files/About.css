@@ -1,0 +1,38 @@
+
+.pokeimg{
+    background-color: rgb(20, 67, 221);
+    display: flex;
+    
+}
+
+.background{
+    background-image: url(https://imgur.com/Nf3XFqG.jpeg);
+    width: 100vw;
+    height:100vh ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   object-fit: cover;
+    overflow: scroll;
+    z-index: 0;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.butt{
+    background:rgb(13, 165, 207);
+    color:#fff;
+    border:none;
+    position:relative;
+    height:40px;
+    
+    padding:0 2em;
+    cursor:pointer;
+    transition:800ms ease all;
+    outline:none;
+    
+}
+
